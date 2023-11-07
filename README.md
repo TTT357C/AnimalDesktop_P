@@ -1,13 +1,13 @@
 # AnimalDesktop 🐕
 Desktop Pet Project
 
-#### Installation
+#### Installation:
 Run the .jar
 
-#### Closing the Software
+#### Closing the Software:
 You can either close the window or terminate the process
 
-#### Sprite
+#### Sprite:
 Is a modification of https://craftpix.net/freebies/free-desert-enemy-sprite-sheets-pixel-art/
 
 #### Note:
